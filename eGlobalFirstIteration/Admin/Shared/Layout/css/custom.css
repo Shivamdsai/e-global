@@ -1,2 +1,17 @@
 ﻿body {
+
+}
+
+#login-form{
+    padding-top:5%;
+}
+
+#admin-login{
+    background-color:#263238;
+}
+
+#login-form h1{
+    color:#fff;
+    text-transform:uppercase;
+    font-weight:bold;
 }
