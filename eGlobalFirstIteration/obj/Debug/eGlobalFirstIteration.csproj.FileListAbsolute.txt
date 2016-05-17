@@ -1,0 +1,6 @@
+C:\Users\Mohnish\Documents\Visual Studio 2013\Projects\eGlobalFirstIteration\eGlobalFirstIteration\bin\eGlobalFirstIteration.dll.config
+C:\Users\Mohnish\Documents\Visual Studio 2013\Projects\eGlobalFirstIteration\eGlobalFirstIteration\bin\eGlobalFirstIteration.dll
+C:\Users\Mohnish\Documents\Visual Studio 2013\Projects\eGlobalFirstIteration\eGlobalFirstIteration\bin\eGlobalFirstIteration.pdb
+C:\Users\Mohnish\Documents\Visual Studio 2013\Projects\eGlobalFirstIteration\eGlobalFirstIteration\obj\Debug\eGlobalFirstIteration.csprojResolveAssemblyReference.cache
+C:\Users\Mohnish\Documents\Visual Studio 2013\Projects\eGlobalFirstIteration\eGlobalFirstIteration\obj\Debug\eGlobalFirstIteration.dll
+C:\Users\Mohnish\Documents\Visual Studio 2013\Projects\eGlobalFirstIteration\eGlobalFirstIteration\obj\Debug\eGlobalFirstIteration.pdb
